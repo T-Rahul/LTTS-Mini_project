@@ -3,7 +3,7 @@ Applying SDLC on project: Speaker recognition
 
 ## Planning
 * Defining the scope of the system:
-* To identify a speaker bases on his speech sample.
+> To identify a speaker bases on his speech sample.
 ## Feasibility study, Estimated cost
 
 
