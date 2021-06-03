@@ -8,6 +8,8 @@
 > Mel Scale
 > 
 > Discrete Cosine Transform
+>
+> MATLAB coding
 
 ## SWOT analysis
 * Strengths
