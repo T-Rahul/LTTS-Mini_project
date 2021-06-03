@@ -21,7 +21,11 @@
 * Low level Requirements
 > Knowledge on MFCC feature extraction process.
 
+### High Level Design:
+![](https://github.com/T-Rahul/LTTS-Mini_project/blob/main/2%20Architecture/High%20level%20system%20diagram.png)
 
+### Low Level Design:
+![](https://github.com/T-Rahul/LTTS-Mini_project/blob/main/2%20Architecture/System%20low%20level%20diagram.png)
 
 ## Folder structure
 | Folder | Description |
@@ -29,8 +33,8 @@
 | `1 Requirements` | Required understanding of the project |
 | `2 Architecture` | Detailed flow of implementation |
 | `3 Implementation` | Matlab code files |
-| `4 Test plan and output` | Output verification |
-| `5 Presentation and report` | Detailed description of the project |
+| `4 Test plan` | Output verification |
+| `5 Report` | Detailed description of the project |
 | `6 Data set` | Training set voice clips |
 
 
