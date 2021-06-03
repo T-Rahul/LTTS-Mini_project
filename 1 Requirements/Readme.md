@@ -6,6 +6,7 @@
 
 * Understanding Human Auditory System
 > Mel Scale
+> 
 > Discrete Cosine Transform
 
 ## SWOT analysis
