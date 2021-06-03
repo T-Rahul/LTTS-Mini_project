@@ -1,10 +1,25 @@
-# LTTS-Mini_project
-Applying SDLC on project: Speaker recognition
+# System Development Life Cycle of Speech Recognition
+## Phases
+### Planning:
+* Defining the scope of the system
+> To identify a speaker based on his speech sample.
+* Feasibility study
+* Estimate costs
+> The project is feasible to the extent where speech sample of a particular doesn’t get tampered or the speaker tries to imitate other voices.
+> This is a simple project that was done completely on software, so there’s nothing that costs other than time.
+> However, if we are trying to build a hardware device based on this implementation, the cost part comes into picture.
 
-## Planning
-* Defining the scope of the system:
-> To identify a speaker bases on his speech sample.
-## Feasibility study, Estimated cost
+### Analysis:
+* Locating existing deficiencies
+> There has been a lot of advancement in speech recognition technology, but still it has huge scope.
+> Speech based devices find their applications in our daily lives and have huge benefits especially for those people who are suffering from some kind of disabilities.
+* Define the requirements
+> Speech based devices find their applications in our daily lives and have huge benefits especially for those people who are suffering from some kind of disabilities.
+> We can also use these speech based devices for security measures to reduce cases of fraud and theft.
+* High level Requirements
+> MATLAB Coding, Basic understanding of analysing speech signals.
+* Low level Requirements
+> Knowledge on MFCC feature extraction process.
 
 
 
